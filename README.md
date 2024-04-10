@@ -1,4 +1,4 @@
-![githubprofilebanner](https://github.com/Mikast14/Mikast14/assets/149662121/ef793588-247b-4077-a73f-fb3294de5e6e)
+![Mika Stengewis(2)](https://github.com/Mikast14/Mikast14/assets/149662121/93e1a2bc-a54f-4dea-bcc3-11eb1130f376)
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
