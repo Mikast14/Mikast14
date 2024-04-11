@@ -1,4 +1,4 @@
-![Mika Stengewis(2)](https://github.com/Mikast14/Mikast14/assets/149662121/93e1a2bc-a54f-4dea-bcc3-11eb1130f376)
+![Mika Stengewis(3)](https://github.com/Mikast14/Mikast14/assets/149662121/a3788278-e21d-4175-9c51-d939988f645c)
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
