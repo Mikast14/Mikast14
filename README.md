@@ -23,3 +23,6 @@ Make a website to show my projects with cool animations in it
 
  ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
+ <a href="https://git.io/streak-stats">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mikast14&theme=transparent&fire=33D6A0&ring=33D6A0&currStreakNum=33D6A0&currStreakLabel=33D6A0&sideLabels=33D6A0&dates=33D6A0&sideNums=33D6A0&border=3F3F3F&stroke=323232" alt="GitHub Streak" />
+    </a>
