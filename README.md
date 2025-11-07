@@ -15,7 +15,7 @@ Portfolio site
 - 🌱 I’m currently learning ...
     <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,php" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,js," />
   </a>
 </p>
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
